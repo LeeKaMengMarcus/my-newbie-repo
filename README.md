@@ -1,67 +1,53 @@
 # interactivedev-readme-template
 Readme template for interactive development module
+
 # Your Project's Name
+MY-NEWBIE-REPO
 
-One or two paragraphs providing an overview of your project. Tell us about your project.
-
-Essentially, this part is your sales pitch.
+The project topic that i have chosen is to create a resume site to summaries me in general. The site mainly covers my capabilities and works that i have done. It is also a way to promote my resume to others when this site gets published to "sell" myself. This will be frequently updated as i have more works that are presented or crafted and lets people view and see my work process.
 
 ## Design Process
 
-Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+This site focuses on building a personal portfolio and to present the best to recruiters who are considering to hire the applicant. 
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
-
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. 
-These files should themselves either be included as a pdf file in the project itself (in an separate directory)
-Include the Adobe XD wireframe as a folder. You can include the XD share url. 
+The wireframes can be found in the same folder of this file while it can also be accessed with this link (https://xd.adobe.com/view/37d74bbc-f48a-4190-88ca-d83057b160d9-6284/)
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+In index.html, which is the home page, it welcomes people who visited this site and does a brief summary of the owner. In all the sites, there will be a navigation bar that helps visitors to navigate around each sites. Under the more menu, it navigates to 3 other sites, which includes, education history, work done & artworks and About me and contacts.
+under education history, it shows the school that the owner has went to and when they graduated. Under work done & artworks, it shows completed pieces of artworks and projects the owner has done and along with the photoshop files embedded on the photos, with a click of the mouse button, it can be downloaded. this site also includes links to other sites that the owner has created to store their resume. finally under about me & contacts, it shows a drawing of chibi art version of the owner, and then below it is the description of the owner. below the description, it contains a block that visitors can send a message or a question to the owner.
+
 
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+- Feature 1 - allows visitors to navigate around the site with the menu bar at the top of every page by hovering over and clicking it.
+- Feature 2 - allows visitors to download the photoshop projects by clicking on the image they are interested in
+- Feature 3 - allows visitors to view other resume pages of the owner
+- Feature 4 - allows visitors to send messages and enquiries to owner by filling out the form at the bottom of about me & contacts page
 
 ### Features Left to Implement
-- Another feature idea
+- 
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+- [AdobeXD](https://www.adobe.com/sea/products/xd.html)
+    - The project uses **AdobeXD** to make wireframes for the site.
+- [VSCode](https://code.visualstudio.com/)
+    - The project uses **Visual Studio Code** to code the website.
 
 
 ## Testing
 
 For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
 
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
+The pages should all look the same on different screens as i think it looks the best with this layout even with a computer screen and horizontal screen on the phone.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
+There is no particular bugs that i have found yet. Therefore, if any would be discovered, please inform me.
 ## Credits
 
 ### Content
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+-  w3schools was used to create the project as they provide functions of the codes (https://www.w3schools.com/)
 
 ### Media
-- The photos used in this site were obtained from ...
-
-### Acknowledgements
-
-- I received inspiration for this project from X
+- The image of "Dazhong Primary school" used in page "Education History" was referenced from (https://thesmartlocal.com/reviews/singapore/shop/education-training/gov-private-schools/primary-schools/dazhong-primary-school/)
+- The image of "Yuhua Secondary school" used in page "Education History" was referenced from (https://service.nestia.com/Education/pois/2889)
